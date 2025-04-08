@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-<h1 align='center'> Portfolio - Prantosh Biswas 🤘 </h1>
+<h1 align='center'> Portfolio - Palkesh Sharma 🤘 </h1>
 
 
 # Table of Contents
@@ -23,7 +23,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# Portfolio - Prantosh Biswas 🤘 <a name="about-project"></a>
+# Portfolio - Palkesh Sharma 🤘 <a name="about-project"></a>
 
 This Personal Portfolio is a dynamic and interactive portfolio website built with React and Redux in the Front-End and Jekyll in the Back-End. It provides a modern and visually appealing platform for showcasing your skills, projects, and achievements to potential employers or clients.
 
@@ -104,14 +104,6 @@ You may also see any lint errors in the console.
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Prantosh Biswas**
-
-- GitHub: [@PrantoshB](https://github.com/PrantoshB)
-- Twitter: [@prantalks](https://twitter.com/prantalks)
-- LinkedIn: [Prantosh Biswas](https://linkedin.com/in/prantosh)
-- Youtube: [Pran Talks](https://www.youtube.com/@prantalks)
-
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -133,15 +125,3 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## 📝 License <a name="license"></a>
-
-This project is copyright free. But I'll be grateful if you consider mentioning me.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<h2>Support if you can 💗</h2>
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/prantosh)
